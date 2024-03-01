@@ -360,6 +360,11 @@ h5, .footer-bottom ul li a{
     .dropdown-menu-button{
         display: none;
     }
+
+    .dropdown-menu-active{
+        padding: 0;
+        height: 100%;
+    }
     
     nav{
         position: static;
